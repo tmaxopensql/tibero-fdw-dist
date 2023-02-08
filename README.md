@@ -1,6 +1,3 @@
-# Tibero_fdw_dist
-
-
 Foregin Data Wrapper for Tibero
 =============================== 
 
@@ -8,9 +5,9 @@ This PostgreSQL extension implements a Foreign Data Wrapper(FDW) for Tibero.
 
 Supported OS
 -------------
-*Ubuntu20.04 <br>
-*Centos7 , Centos8 <br>
-*Redhat7 , Redhat8
+* Ubuntu20.04 <br>
+* Centos7 , Centos8 <br>
+* Redhat7 , Redhat8
 
 Requirement 
 ------------
