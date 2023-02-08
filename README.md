@@ -12,7 +12,7 @@ Supported OS
 Requirement 
 ------------
 
-Libraries under <Supported OS system>/lib are essential for tibero_fdw operation.
+Shared libraries under < Supported OS system >/lib directories are essential for tibero_fdw operation.
 Those libraries must be included in the LD_LIBRARY_PATH of the postgresql server process(Postmaster).
 
 Installation 
